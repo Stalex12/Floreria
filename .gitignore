@@ -1,0 +1,11 @@
+node_modules/
+*.mov
+*.mp4
+*.gif
+*.webp
+.next
+.env.local
+.public/Cursor.mov
+.public/Cursor.mp4
+.public/Cursor.gif
+.public/Cursor.webp
